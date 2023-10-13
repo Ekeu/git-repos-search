@@ -1,0 +1,5 @@
+export const types = {
+  SET_RATING: 'SET_RATING',
+  SET_FAVORITE: 'SET_FAVORITE',
+  DELETE_FAVORITE: 'DELETE_FAVORITE',
+};

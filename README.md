@@ -21,9 +21,13 @@ I used the following technologies:
 
 ## To make it work
 
+You can see it working online by visiting the deployed [app](https://git-repos-search.vercel.app/)
+
+##### OR
+
 1. Create a personal access token on github. [Here's how](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token)
 
-2. Create a `.env`` file in the root of the project and add the following key
+2. Create a `.env` file in the root of the project and add the following key
 
 ````env
 

@@ -16,7 +16,7 @@ I used the following technologies:
 
 1. [React JS](https://nextjs.org/) as frontend framework
 2. [Tailwind](https://tailwindui.com/) as my css framework
-3. [Github API](https://docs.github.com/en/rest) as my data source
+3. [Github API](https://docs.github.com/en/graphql/overview/about-the-graphql-api) as my data source
 4. [Apollo Client](https://www.apollographql.com/docs/react/) as my graphql client
 
 ## To make it work

@@ -18,7 +18,6 @@ const ReposContext = createContext<{
 export const ReposProvider: FC<IReposProviderProps> = ({ children }) => {
   const initialState = {
     favoriteRepos: [],
-    enableFirebase: false,
   };
 
   const [state, dispatch] = useReducer(reducer, initialState);

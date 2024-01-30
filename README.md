@@ -14,8 +14,8 @@ Github Repo Search is a web application that allows you to search for repositori
 
 I used the following technologies:
 
-1. [React JS](https://nextjs.org/) as frontend framework
-2. [Tailwind](https://tailwindui.com/) as my css framework
+1. [React JS](https://react.dev/) as frontend framework
+2. [Tailwind](https://tailwindcss.com/) as my css framework
 3. [Github API](https://docs.github.com/en/graphql/overview/about-the-graphql-api) as my data source
 4. [Apollo Client](https://www.apollographql.com/docs/react/) as my graphql client
 
